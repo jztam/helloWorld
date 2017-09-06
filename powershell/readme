@@ -1,0 +1,7 @@
+NOTE:  run the batch file instead of the powershell script, since we need to get around the set-executionPolicy
+
+USE:
+
+"Set-ExecutionPolicy -ExecutionPolicy Unrestricted"  
+or
+"Set-ExecutionPolicy -ExecutionPolicy Remote"  
